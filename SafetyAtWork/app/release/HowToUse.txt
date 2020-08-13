@@ -1,0 +1,13 @@
+
+Use any of the below credentials for app login
+
+Admin
+venkat@hcl.com 
+venkat1 
+seat: T1-F1-ODC1-R2-C1-S4
+
+Users:
+anees@hcl.com anees1 seat: T1-F1-ODC1-R1-C1-S4
+vijesh@hcl.com vijesh1 seat: T1-F1-ODC1-R4-C2-S4
+subramanya@hcl.com subramanya1 seat: T1-F1-ODC1-R4-C4-S4
+divya@hcl.com divya1 seat: T1-F1-ODC1-R3-C3-S3
