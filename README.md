@@ -25,3 +25,6 @@ Features: Mask Detection, Face Recognition & Warning Email.
 
 Code Path: 
 https://github.com/vijeshonline/mask_face_recognition
+
+APK Path: 
+https://github.com/vijeshonline/mask_face_recognition/blob/master/apk/face_recognition.apk
