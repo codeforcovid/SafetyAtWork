@@ -13,7 +13,9 @@ c. Bluetooth Social Distancing
 d. Immunity Drink / Sanitization Alarm
 
 Code path: https://github.com/codeforcovid/SafetyAtWork
+
 App APK Path: https://github.com/codeforcovid/SafetyAtWork/blob/master/SafetyAtWork/app/release/safeatwork.apk
+
 How to use document: https://github.com/codeforcovid/SafetyAtWork/blob/master/SafetyAtWork/app/release/HowToUse.txt
 
 [2]
